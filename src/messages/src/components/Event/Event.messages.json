@@ -1,0 +1,34 @@
+[
+  {
+    "id": "contact.contactUs",
+    "defaultMessage": "Contact us"
+  },
+  {
+    "id": "event.nextEvent",
+    "defaultMessage": "Next event"
+  },
+  {
+    "id": "event.moreInfo",
+    "defaultMessage": "More info"
+  },
+  {
+    "id": "event.allEvents",
+    "defaultMessage": "All events"
+  },
+  {
+    "id": "event.incomingEvents",
+    "defaultMessage": "Upcoming events"
+  },
+  {
+    "id": "events.more.heading",
+    "defaultMessage": "...and more!"
+  },
+  {
+    "id": "events.more.subheading",
+    "defaultMessage": "We keep adding new events to the calendar. Find out where else you can meet us!"
+  },
+  {
+    "id": "events.heading",
+    "defaultMessage": "Our Events"
+  }
+]

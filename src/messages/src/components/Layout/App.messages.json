@@ -1,0 +1,50 @@
+[
+  {
+    "id": "app.title",
+    "defaultMessage": "Valen International"
+  },
+  {
+    "id": "contact.contactUs",
+    "defaultMessage": "Contact Us"
+  },
+  {
+    "id": "contact.phoneNumber",
+    "defaultMessage": "+886-2-2364-2433"
+  },
+  {
+    "id": "contact.emailAddress",
+    "defaultMessage": "valen@info.com.tw"
+  },
+  {
+    "id": "contact.address.line1",
+    "defaultMessage": "2nd Fl, No. 30, Bashi Rd."
+  },
+  {
+    "id": "contact.address.line2",
+    "defaultMessage": "Danshui District"
+  },
+  {
+    "id": "contact.address.line3",
+    "defaultMessage": "Taipei, Taiwan"
+  },
+  {
+    "id": "nav.wines",
+    "defaultMessage": "Wines"
+  },
+  {
+    "id": "nav.events",
+    "defaultMessage": "Events"
+  },
+  {
+    "id": "nav.promotions",
+    "defaultMessage": "Promotions"
+  },
+  {
+    "id": "nav.about",
+    "defaultMessage": "About"
+  },
+  {
+    "id": "nav.contact",
+    "defaultMessage": "Contact"
+  }
+]
